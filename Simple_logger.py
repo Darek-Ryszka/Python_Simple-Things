@@ -1,3 +1,5 @@
+# Simple logger
+
 accounts = {}
 while True:
     option = input("Type 'Sign in' or 'Log in'")
