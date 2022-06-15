@@ -5,7 +5,7 @@ Simple projects in Python
 These are simple projects without using libraries
 
 ## Technologies
-* Python version: 3.8
+* Python 3.8
 * PyCharm 2022.1
 
 ## Startup
